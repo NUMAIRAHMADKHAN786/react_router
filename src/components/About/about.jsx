@@ -24,6 +24,9 @@ export default function About() {
                           Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
                           Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
                       </p>
+                      <p className="mt-4 text-grey-600">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum vitae consequuntur consectetur quaerat! Doloribus culpa praesentium nulla voluptatem aliquid.
+                      </p>
                   </div>
               </div>
           </div>
